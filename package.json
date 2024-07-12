@@ -1,0 +1,19 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "vsf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Servidor-dev": "browser-sync start --server --files '*.*'"
+  },
+  "keywords": [
+    "Servidor-dev"
+  ],
+  "author": "sk",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}
+  
